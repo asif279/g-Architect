@@ -106,13 +106,13 @@
     position: relative;
 }
 .div-1{
-  width: 100%;
+  width:72%;
     border-radius: 8px;
     border: 1px solid rgb(233, 220, 220);
     background-color: white;
     box-shadow: 15px;
-    margin: 7px;
-    background-color: rgb(245, 240, 240);
+    margin: 10px;
+    background-color: rgb(251, 251, 251);
     padding: 7px;
     
 }
