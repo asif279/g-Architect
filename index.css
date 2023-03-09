@@ -16,10 +16,11 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 30px;
+    display: block;
    
 }
 .nav .headerName{
-    margin-left: 40px;
+   text-align: center;
 }
 
 .writting h1{
