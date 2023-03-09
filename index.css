@@ -201,8 +201,12 @@
 }
 .logo img{
     padding: 15px;
-    margin: 15px;
+   margin: 15px;
 align-items: center;
+width: 7%;
+border: none;
+color: gainsboro;
+
 }
 .lastsec{
     margin: 15px;
