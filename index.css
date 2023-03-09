@@ -190,10 +190,10 @@
     width: 30%;
 }
 .sponsor h2{
-    margin-left: 120px;
+    text-align: center;
 }
 .sponsor p{
-    align-items: center;
+   text-align: center;
 }
 .logo{
     display: block;
@@ -208,12 +208,13 @@
 .lastsec{
     margin: 15px;
     padding: 15px;
+    display: block;
     background-color: #FFF4E7;
   
 
 }
 .lastsec p{
-    margin-left: 350px;
+    text-align: center;
 }
 body{
     margin: 0;
